@@ -1,0 +1,14 @@
+{
+  "name": "thingbot",
+  "version": "0.0.1-ALPHA",
+  "description": "thingBot (Discord bot)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheGalacticAce",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
