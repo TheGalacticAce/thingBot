@@ -24,7 +24,9 @@ In order to download it you will need:
 9. Replace <token> with your token and save it
 10. Go to your Terminal / CMD Prompt
 11. Type the following in:
+
 $ git clone https://github.com/TheGalacticAce/thingBot.git/
+
 $ node main.js
   
   Your done!
