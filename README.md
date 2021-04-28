@@ -11,6 +11,7 @@ thingBot is currently not public, so you will have to host it locally.
 In order to download it you will need:
 
 <a style="margin:4px;" class="btn btn-outline-success btn-lg" href="https://nodejs.org/en/" role="button">Node.js LTS</a> ( Node.js 15 and 16 unsupported )
+
 <a style="margin:4px;" class="btn btn-outline-success btn-lg" href="https://git-scm.com" role="button">Git</a>
 
 1. First create a Discord app in the Discord dev portal and make it a bot
